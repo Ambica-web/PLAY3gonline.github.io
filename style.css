@@ -1,0 +1,13 @@
+body{
+background:orange;
+}
+button{
+background:yellow;
+padding:10px;
+justify-content:center;
+align-content:center;
+}
+alert{
+background:pink;
+padding:5px;
+}
